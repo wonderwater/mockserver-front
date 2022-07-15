@@ -8,8 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "codemirror-editor-vue3": "^2.1.7",
-    "element-plus": "^2.2.8",
+    "element-plus": "^2.2.9",
     "vue": "^3.2.25"
   },
   "devDependencies": {
